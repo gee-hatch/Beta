@@ -1,5 +1,5 @@
 # Beta
-Beta versions and attempts
+Beta versions and attempts - Updating on a rolling basis
 
 **File 1** Title: Buy and Hold (NYSE)
 
