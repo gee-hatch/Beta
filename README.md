@@ -11,3 +11,14 @@ Style tags: Systematic
 Asset class: Equities, Futures, ETFs, Currencies and Commodities
 
 Broker: US Equities
+
+**File 2** Title: Bollinger Band Strategy (NSE)
+
+Description: This is a long short strategy based on bollinger bands
+    and SMA dual signals
+
+Style tags: Systematic Fundamental
+
+Asset class: Equities, Futures, ETFs and Currencies
+
+Broker: NSE
